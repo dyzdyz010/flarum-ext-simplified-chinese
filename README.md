@@ -2,9 +2,11 @@
 
 GitHub: https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese
 
-###语言包简介
+### 语言包简介
 
-本语言包由 **[Flarum 中国开发者社区](http://flarum.org.cn)** 制作并发行
+本语言包由 **[Jsthon](https://jsthon.com/)** 制作并发行
+
+并感谢 [Flarum 中国开发者社区](http://flarum.org.cn) 提供帮助
 
 基于 [flarum/english](https://github.com/flarum/flarum-ext-english) 翻译
 
@@ -14,12 +16,17 @@ GitHub: https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese
 符合多数中国人思维习惯
 
 
-###下载链接
+### 安装方式
+
+    composer require jsthon/flarum-ext-simplified-chinese
+
+
+### 下载链接
 
 [选择发行版本 >>](https://github.com/Flarum-Chinese/flarum-ext-simplified-chinese/releases)
 
 
-###联系作者
+### 联系作者
 如有疑问或建议  
 请直接提出问题  
 
